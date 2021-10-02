@@ -71,7 +71,7 @@ header {
 .container {
     margin-top: 10px;
     display: grid;
-    grid-template-columns: 90% 10%;
+    grid-template-columns: 85% 15%;
     height: 50%;
     overflow-y: auto;
 }
@@ -88,7 +88,8 @@ header {
 .right-nav {
     margin-left: 5px;
     border-left: solid 1px #11396B;
-    padding-left: 5px;
+    padding-left: 20px;
+    margin-bottom: 20px;
 }
 
 .right-nav a {
