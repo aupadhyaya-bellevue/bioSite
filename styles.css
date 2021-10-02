@@ -114,13 +114,31 @@ header {
 .left-image {
     float: left;
     margin-right: 10px;
+    width: 20%;
+    height: 25%;
+}
+
+.left-image-oval {
+    float: left;
+    margin-right: 10px;
     border-radius: 60%;
+    width: 20%;
+    height: 25%;
 }
 
 .right-image {
     float: right;
-    margin-left: 10px;
+    margin-left: 10px; 
+    width: 20%;
+    height: 20%;
+}
+
+.right-image-oval {
+    float: right;
+    margin-left: 10px; 
     border-radius: 60%;
+    width: 20%;
+    height: 25%;
 }
 
 .footer {
