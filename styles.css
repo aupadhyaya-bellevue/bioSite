@@ -155,6 +155,12 @@ header {
     height: 25%;
 }
 
+.sources {
+    padding: 5px;
+    margin-bottom: 20px;
+    font-size: small;
+}
+
 footer {
     background-color: #11396B;
     color: #ffffff;
